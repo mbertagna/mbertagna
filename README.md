@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm @mbertagna, an aspiring software engineer based in California.
+👋 Hi there! I'm @mbertagna, an aspiring software engineer based in California.
 
 🎓 I have a degree in Biochemistry and Molecular Biology and a Minor in Computer Science from Chapman University and am seeking opportunities to start my career as a Software Engineer.
 
